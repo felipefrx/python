@@ -1,2 +1,2 @@
 # Python
-Repositório criado para estudo da linguagem Python e da ferramenta Git. 
+Repository created to study the Python language and the Git tool. 
