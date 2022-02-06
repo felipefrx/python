@@ -1,2 +1,2 @@
 # Description
-Repository created to study the Python language and the Git tool. 
+Repository created to study the Python language and the Git tool.
