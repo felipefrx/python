@@ -8,7 +8,7 @@ del names[0] #Remove a name in especifc point
 print("Size list:", len(names))
 print(names)
 print(names[2])
-print(names[-1]) #Print left for right 
+print(names[-1]) #Print right for left
 
 names.clear() #Clear the list
 print(names)
