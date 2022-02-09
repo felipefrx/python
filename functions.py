@@ -31,7 +31,7 @@ car() #if you don't pass an argument, it prints the default argument.
 car("Camaro")
 
 
-list = ["Golf", "Camaro", "HRVV"]
+list = ["Golf", "Camaro", "HRV"]
 def car2(num):
     for n in num:
         print(n)
