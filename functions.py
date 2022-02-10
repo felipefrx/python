@@ -42,7 +42,7 @@ def car2(num):
 car2(list)
 
 
-#Lambda Function = Simple function
+#Lambda Function or Anonymous Functions = Simple function
 
 soma = lambda a, b : a + b
 print(soma(4, 4))
